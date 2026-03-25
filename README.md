@@ -1,1 +1,15 @@
 # Project-Lava-Escape
+
+In meinem Spiel namens Lava Escape geht es darum, vor der immer höher steigenden Lava wegzulaufen. Man steuert eine Figur, die über verschiedene Plattformen nach oben springen muss, damit sie nicht von der Lava eingeholt wird. Dabei kommt es vor allem darauf an, schnell zu reagieren und geschickt zu springen. Das Ziel ist, das Ende eines Levels zu erreichen, bevor die Lava zu nahe kommt.
+
+Ich stelle mir vor, dass man die Figur mit den Pfeiltasten nach links und rechts bewegen kann. Mit einer Taste kann man springen, um auf höhere Plattformen zu gelangen. Am Anfang sind die Plattformen noch relativ einfach aufgebaut, damit man das Spiel besser verstehen kann. Mit der Zeit werden die Levels schwieriger. Manche Plattformen bewegen sich, andere verschwinden nach kurzer Zeit oder stehen weiter auseinander. Ausserdem gibt es Hindernisse wie Stacheln oder fallende Steine. Der Spieler verliert, wenn er in die Lava fällt oder ein Hindernis berührt. Gewonnen hat man, wenn man das Ziel am oberen Ende des Levels erreicht.
+
+In meinem Spiel geht es hauptsächlich darum, immer schneller nach oben zu kommen, ohne von der Lava eingeholt zu werden. Dadurch entsteht automatisch Druck, weil man keine Zeit hat, lange zu überlegen. Man muss aufmerksam bleiben und versuchen, möglichst wenige Fehler zu machen.
+
+Es gibt einige Spiele, die meinem Spiel ähnlich sind. Dazu gehören Doodle Jump, Only Up, Celeste, Geometry Dash und Super Mario Bros. In allen diesen Spielen muss man springen und Hindernisse überwinden. Mein Spiel unterscheidet sich aber dadurch, dass die Lava ständig weiter steigt und man deshalb immer unter Zeitdruck steht. Ausserdem soll mein Spiel feste Levels mit einem klaren Ziel haben. Manche der genannten Spiele sind endlos oder legen mehr Wert auf Musik oder eine Geschichte. Mein Spiel konzentriert sich hauptsächlich auf das schnelle Klettern nach oben und das Überleben.
+
+Ich denke, dass mein Spiel besonders für Jugendliche und junge Erwachsene interessant sein kann, ungefähr zwischen zwölf und fünfundzwanzig Jahren. Viele Menschen in diesem Alter mögen schnelle Spiele, bei denen man sich verbessern kann. Mein Spiel ist nicht speziell für Jungen oder Mädchen gedacht, sondern für alle, die solche Herausforderungen mögen. Mir ist wichtig, dass die Steuerung einfach ist, damit man nicht lange überlegen muss und direkt anfangen kann.
+
+Ich kann noch nicht genau sagen, wie lange die Entwicklung dauern wird, weil ich auch andere schulische Aufgaben habe. Zuerst würde ich versuchen, die Bewegungen der Figur umzusetzen und ein einfaches Level zu planen. Danach würde ich weitere Hindernisse und die steigende Lava einbauen. Am Schluss würde ich testen, ob alles funktioniert, und das Aussehen noch etwas verbessern.
+
+Am Ende geht es in Lava Escape darum, immer weiter nach oben zu kommen, bevor die Lava einen einholt. Mit der Zeit wird es schwieriger, was das Spiel spannender macht. Dadurch muss man sich gut konzentrieren und darf nicht unaufmerksam werden.
